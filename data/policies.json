@@ -1,0 +1,15 @@
+{
+  "late_delivery": {
+    "rule": "If an order is marked delayed after its estimated delivery date, create a support escalation ticket.",
+    "priority": "high",
+    "customer_message": "Tell the customer that the delivery has been escalated for investigation."
+  },
+  "refunds": {
+    "rule": "Do not issue refunds automatically in this training project. Create or recommend a support review instead.",
+    "priority": "medium"
+  },
+  "damaged_item": {
+    "rule": "Create a medium-priority support ticket after confirming the order exists.",
+    "priority": "medium"
+  }
+}

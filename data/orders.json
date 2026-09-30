@@ -1,0 +1,29 @@
+[
+  {
+    "order_id": "ORD-1001",
+    "customer": "Asha",
+    "item": "Wireless Keyboard",
+    "status": "delivered",
+    "order_date": "2026-08-01",
+    "estimated_delivery": "2026-08-05",
+    "amount_inr": 2499
+  },
+  {
+    "order_id": "ORD-1002",
+    "customer": "Ravi",
+    "item": "27-inch Monitor",
+    "status": "delayed",
+    "order_date": "2026-07-29",
+    "estimated_delivery": "2026-08-04",
+    "amount_inr": 18999
+  },
+  {
+    "order_id": "ORD-1003",
+    "customer": "Meera",
+    "item": "USB-C Hub",
+    "status": "in_transit",
+    "order_date": "2026-08-05",
+    "estimated_delivery": "2026-08-10",
+    "amount_inr": 3199
+  }
+]
